@@ -10,4 +10,4 @@ Flask: Python web framework for building the application.
 Scikit-learn: For the trained Logistic Regression model and data preprocessing (StandardScaler).
 Pandas: For data handling and manipulation.
 Google Gemini API: For the conversational chatbot functionality.
-HTML, CSS, JavaScript: For the front-end web interface.
+HTML, CSS: For the front-end web interface.
