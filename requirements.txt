@@ -1,0 +1,7 @@
+kagglehub
+scikit-learn
+pandas
+flask==3.0.3
+joblib==1.4.2
+numpy==2.1.1
+google-generativeai==0.7.0
